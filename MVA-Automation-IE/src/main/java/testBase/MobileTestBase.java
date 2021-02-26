@@ -1,14 +1,11 @@
 package testBase;
 
 import org.testng.annotations.BeforeClass;
-
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
-
 import org.testng.annotations.AfterClass;
 import java.net.URL;
 import java.util.concurrent.TimeUnit;
-
 import org.openqa.selenium.remote.DesiredCapabilities;
 
 public class MobileTestBase {
