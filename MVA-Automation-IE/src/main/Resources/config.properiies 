@@ -1,0 +1,7 @@
+appiumURL=http://0.0.0.0:4723/wd/hub
+androidAutomationName=UiAutomator2
+androidAppPackage=Com.VodafoneIreland.MyVodafone
+androidAppActivity=Com.VodafoneIreland.MyVodafone.MainActivity
+iOSAutomationName=XCUITest
+iOSBundleId=com.VodafoneIreland.MyVodafone
+IOSudid=22c5feb1942a7fe03a2175d284ab1b17234aa3d1
